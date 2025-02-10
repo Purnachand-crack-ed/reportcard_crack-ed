@@ -1,0 +1,8 @@
+# Existing dependencies
+pandas
+jinja2
+matplotlib
+plotly
+requests
+python-dotenv
+backgroundremover
